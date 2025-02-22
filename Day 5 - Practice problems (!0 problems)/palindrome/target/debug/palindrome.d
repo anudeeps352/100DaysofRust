@@ -1,0 +1,1 @@
+F:\Learning\100\ days\ of\ Rust\Day\ 5\ -\ Practice\ problems\ (!0\ problems)\palindrome\target\debug\palindrome.exe: F:\Learning\100\ days\ of\ Rust\Day\ 5\ -\ Practice\ problems\ (!0\ problems)\palindrome\src\main.rs
