@@ -1,0 +1,10 @@
+F:\Learning\100 days of Rust\Day 8 - Simple CLI\cli\target\debug\deps\libanstyle-20b192f475a59676.rmeta: C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src/lib.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src\macros.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src\color.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src\effect.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src\reset.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src\style.rs
+
+F:\Learning\100 days of Rust\Day 8 - Simple CLI\cli\target\debug\deps\anstyle-20b192f475a59676.d: C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src/lib.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src\macros.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src\color.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src\effect.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src\reset.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src\style.rs
+
+C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src/lib.rs:
+C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src\macros.rs:
+C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src\color.rs:
+C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src\effect.rs:
+C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src\reset.rs:
+C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.10\src\style.rs:

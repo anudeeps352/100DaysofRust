@@ -1,0 +1,9 @@
+F:\Learning\100 days of Rust\Day 8 - Simple CLI\cli\target\debug\deps\libanstyle_parse-6cce1ad34bd4977c.rmeta: C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.6\src/lib.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.6\src\params.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.6\src\state\mod.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.6\src\state\definitions.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.6\src\state\table.rs
+
+F:\Learning\100 days of Rust\Day 8 - Simple CLI\cli\target\debug\deps\anstyle_parse-6cce1ad34bd4977c.d: C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.6\src/lib.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.6\src\params.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.6\src\state\mod.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.6\src\state\definitions.rs C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.6\src\state\table.rs
+
+C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.6\src/lib.rs:
+C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.6\src\params.rs:
+C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.6\src\state\mod.rs:
+C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.6\src\state\definitions.rs:
+C:\Users\Anudeep\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.6\src\state\table.rs:
